@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Devansh Sharma</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+<h1 align="center">
+  I'm Devansh Sharma
+</h1>
+
 <h3 align="center">Student @GLA University, Mathura</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshx72&label=Profile%20views&color=0e75b6&style=flat" alt="devanshx72" /> </p>
