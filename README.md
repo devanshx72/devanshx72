@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Agentic AI and Gen AI**
 
-- 💬 Ask me about **DSA, Web Development and Machine Learning**
+- 💬 Ask me about **DSA and Web Development**
 
 - 📫 How to reach me **devansh.sharma.codes@gmail.com**
 
